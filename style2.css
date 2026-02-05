@@ -1,0 +1,23 @@
+*{
+    color:blue
+}
+h1{
+    text-align: center;
+    text-decoration: red underline;
+}
+h2{
+    color: pink;
+}
+#headingone{
+    color:chocolate;
+    font-size: 30px;
+}
+#headingtwo{
+    color:chartreuse;
+}
+.nextbivi{
+    color:rgb(13, 255, 0);
+}
+P{
+    font-family: arial;
+}
