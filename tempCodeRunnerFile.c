@@ -1,4 +1,4 @@
-#include<stdio.h>e
+#include<stdio.h>
 #include<math.h>
 int main(){
     int p;
