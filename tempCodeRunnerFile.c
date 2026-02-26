@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
-    int n;
+    int m;
     printf("enter the number is :");
-    scanf("%d",&n);
-    int root = sqrt(n);
+    scanf("%d",&m);
+    int root = sqrt(m);
     printf("the root of number is :%d",root);
     return 0;
 }
